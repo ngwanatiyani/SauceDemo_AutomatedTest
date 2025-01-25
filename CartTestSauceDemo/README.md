@@ -13,6 +13,8 @@ This project demonstrates a basic Selenium automation script using Java to test 
 
 Before running the script, ensure you have the following:
 
+An IDE of your choice (Intellij, enclipse or Netbeans)
+
 1. **Java Development Kit (JDK)** installed (JDK 18 or later recommended).
 2. **Maven** installed (optional, for managing dependencies).
 3. **Selenium WebDriver** and the appropriate browser driver (e.g., `chromedriver` for Chrome).
