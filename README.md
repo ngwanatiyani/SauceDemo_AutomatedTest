@@ -7,7 +7,7 @@ This project contains automated tests for the SauceDemo web application. The tes
 ## Technologies Used
 
 - **Programming Language**: Java
-- **Testing Frame: JUnit
+- **Testing Frame**: JUnit
 - **Web Driver**: Selenium
 
 - **Browser**: Brave broswer
