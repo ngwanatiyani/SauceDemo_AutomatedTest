@@ -14,5 +14,5 @@ This project contains automated tests for the SauceDemo web application. The tes
 
 ## Features
 
-- User login functionality
-- Product selection and cart management
+- User login functionality.
+- Product selection and cart management.
